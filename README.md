@@ -45,7 +45,6 @@ A comprehensive analysis of 7400-series NAND gate characteristics, focusing on s
 
 <img width="1280" height="824" alt="2 2 task" src="https://github.com/user-attachments/assets/49ba113a-babf-4c93-a6fc-20dfce5d538f" />
 
-<img width="1280" height="824" alt="2 3 task" src="https://github.com/user-attachments/assets/8363afa5-4974-4219-9e5a-ef74ba9ed64a" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-08 at 13 57 56" src="https://github.com/user-attachments/assets/d5653f39-fb70-46b2-8acd-ac6e956dba5b" />
 
-<img width="1280" height="824" alt="task 3 1" src="https://github.com/user-attachments/assets/dd7b5fea-281e-4ec4-b820-ab4f356e5d97" />
 
